@@ -1,6 +1,7 @@
 {
   "name": "ozanhazer/safe-link",
   "description": "Sign URLs with expiration date to transfer data between projects",
+  "license": "MIT",
   "authors": [
     {
       "name": "M.Ozan Hazer",
