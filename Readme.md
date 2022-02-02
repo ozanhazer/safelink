@@ -1,5 +1,8 @@
 # SafeLink
 
+![Unit Tests](https://github.com/ozanhazer/safelink/actions/workflows/php.yml/badge.svg)
+
+
 Framework-agnostic, lightweight URL signer. You can use SafeLink to transfer data between projects.
 
 Sign the url in project 1:
