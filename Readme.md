@@ -34,7 +34,7 @@ assert($data['user'], 'test@example.com');
 
 ## Installation
 
-Run `composer require ozanhazer/safelink` and you're good to go!
+Run `composer require ozanhazer/safe-link` and you're good to go!
 
 ## Options
 
